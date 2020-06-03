@@ -1,0 +1,15 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\MusicPlayer\obj\Debug\MusicPlayer.pdb
